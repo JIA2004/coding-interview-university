@@ -73,9 +73,9 @@ Si desea ser un Ingeniero de Escalabilidad/Seguridad o un Ingeniero de Sistemas,
 
 ## Tabla de contenido
 
-- [¿Qué es esto?](#qué-es-esto) [x]
-- [¿Por qué usarlo?](#por-qué-usarlo) [x]
-- [¿Cómo usarlo?](#como-usarlo) [x]
+- [x](#qué-es-esto)
+- [¿Por qué usarlo?](#por-qué-usarlo)
+- [¿Cómo usarlo?](#como-usarlo)
 - [No sienta que no es lo suficientemente listo](#no-sienta--que-no-es-lo-suficientemente-listo)
 - [Acerca de los recursos de vídeo](#acerca-de-los-recursos-de-vídeo)
 - [Prepárese para la entrevista](#prepárese-para-la-entrevista)
